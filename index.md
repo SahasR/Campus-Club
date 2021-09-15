@@ -13,6 +13,7 @@ Information regarding FOSS Campus Clubs
 * [IIT](cc/IIT.md) -  Jihan Jeeth  
 * ICBT Kandy Campus -    Nikeshala Thennakoon
 * [KDU](cc/KDU.md) - Chanakya Bandara 
+* [SLIIT FOSS Community](cc/SLIIT_FOSS_Community.md) -  Chamod Shehanka
 
 Template to add a new campus club [template.md](template.md)
 

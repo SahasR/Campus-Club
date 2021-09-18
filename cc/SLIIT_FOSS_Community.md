@@ -10,7 +10,7 @@ A group of volunteers who believe in the usage of Free/Open Source Software (FOS
 * Assistant Secretary - [Sahas Gunasekara](https://sahasr.github.io)
 * Treasurer - [Kaveesha Gimhana](http://kaveeshagimhana.com)
 * Assistant treasurer - Dureksha Wasala
-* Editor - Nisal Palliyaguru
+* Editor - [Nisal Palliyaguru](https://github.com/nisalrenuja)
 * Dev Relation - Sithum Sandeepa
 * Event Coordinator - Madusha Prashad
 * Project Coordinator - Chenuka Sumanasekara

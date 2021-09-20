@@ -1,39 +1,51 @@
-# SLIIT FOSS Community 
+# Hi there! Interested in the SLIIT FOSS Community? :grinning: :computer: 
 
-A group of volunteers who believe in the usage of Free/Open Source Software (FOSS). The primary objective of the community is to promote, develop and diversify the usage of Free and Open Source Software at SLIIT. <a href="https://sliitfoss.org"><button>View More</button></a>
+Here's some FAQs that you might have on your mind 
 
-## Members
+## 1. Who are we? 
 
-* President - [Chamod Shehanka](http://chamodshehanka.com)
-* Vice President - [Bawantha Thilan](http://bawanthathilan.me)
-* Secretary - [Sewvandi Wickramasinghe](https://sewvandiwickramasinghe-if8nt.ondigitalocean.app)
-* Assistant Secretary - [Sahas Gunasekara](https://sahasr.github.io)
-* Treasurer - [Kaveesha Gimhana](http://kaveeshagimhana.com)
-* Assistant treasurer - Dureksha Wasala
-* Editor - [Nisal Palliyaguru](https://github.com/nisalrenuja)
-* Dev Relation - Sithum Sandeepa
-* Event Coordinator - Madusha Prashad
-* Project Coordinator - Chenuka Sumanasekara
+![](https://raw.githubusercontent.com/sliit-foss/brand-assets/master/Newbies-Message/resources/group.jpg)
 
-## How to join?
+We're a group of Open Source Enthusiasts (and more importantly friends!) who love getting together to create great stuff together or even hangout! Our primary goal is to promote, develop and diversify the usage of Free and Open Source Software at SLIIT!
 
-- Send an email to [infosliitfoss@gmail.com](infosliitfoss@gmail.com) 
-- Include following details
-    - Full name
-    - National identity card
-    - Student Id
-    - Current year
-    - Interested fields 
+## 2. What do we do?
 
-## Social Links
+Short answer? A lot!
 
-Keep yourself connected through our social media platforms to never miss out on latest updates.
+A more detailed answer encompasses many things, we have host events & tech-talks (you can find some here https://sliitfoss.org/events), create stuff together using the latest technologies (like this amazing website we built https://sliitfoss.org/) and also... *drumroll* .... have our very own Podcast! :microphone: (You can listen to it here: https://bit.ly/2VAnrpW) 
 
-- Instagram: [https://instagram.com/sliitfoss](https://instagram.com/sliitfoss)
-- Facebook: [https://www.facebook.com/sliitfoss/](https://www.facebook.com/sliitfoss/)
-- Medium: [https://medium.com/sliit-foss](https://medium.com/sliit-foss)
-- GitHub: [https://github.com/sliit-foss](https://github.com/sliit-foss)
-- YouTube: [https://www.youtube.com/channel/UCPPO-QR0Dv13ewjhPsc_I3w](https://www.youtube.com/channel/UCPPO-QR0Dv13ewjhPsc_I3w)
-- Twitter: [https://twitter.com/fosssliit](https://twitter.com/fosssliit)
-- LinkedIn: 
-- Twitch: [https://www.twitch.tv/sliitfoss](https://www.twitch.tv/sliitfoss)
+![](https://raw.githubusercontent.com/sliit-foss/brand-assets/master/Newbies-Message/resources/podcast.jpeg)
+
+## 3. What are the pre-requisites needed to join?
+
+Absolutely nothing! Everyone starts from somewhere so its extremely fair to have people from diverse backgrounds. What matters to us is a willingness to learn and the ability to put time in!
+
+To get started we have some guides that we have setup on getting started. We mainly do stuff revolving around technologies like Git, ReactJS and stuff but these things are pretty easy to get hang of and you can check out our guides here: https://sliit-foss.github.io/zero2hero/
+
+You are also more than welcome to ask any questions from our current members as we are happy to help you out as well!
+
+## 4. Do I have to be a coder to join?
+
+Not really, as a club we face many other hurdles that can't just be solved by throwing a try{}catch{} block at it!
+
+Some of our members take on a variety of other roles but we have dichotomised the roles into Dev, Management and Design :art:. 
+
+## 5. How to join?
+
+If you read all of this, perhaps you might be interested in joining? :eyes:
+
+There's mainly two avenues you can follow
+
+1. If you are still on the fence of joining and just want to be on the sidelines for a moment (which there is no issue of), you can join us on Facebook Group [https://www.facebook.com/sliitfoss/?ref=page_internal](https://www.facebook.com/sliitfoss/?ref=page_internal) and follow us on other Social Media (Linked below :arrow_down:) 
+
+2. If you want to have a more hands-on approach you can actually apply to Volunteer with our club, think of this as a gateway to being an active contributing member to the club in the future, the form can be found here: https://forms.gle/F4NeQ19RDAazdPeQ6
+
+### Links to our Socials:
+
+Facebook: https://www.facebook.com/sliitfoss
+
+Instagram: https://www.instagram.com/sliitfoss
+
+Twitter: https://twitter.com/fosssliit
+
+LinkedIn: https://www.linkedin.com/company/sliit-foss-community
